@@ -1,6 +1,5 @@
-# Finding_donors_Project_ML
 # Machine Learning Engineer Nanodegree
-## Project 3: Finding Donors for CharityML
+## Project: Finding Donors for CharityML
 
 
 ### Project Description
