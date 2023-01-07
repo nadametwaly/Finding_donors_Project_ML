@@ -9,7 +9,7 @@ This is the project for the Machine Learning Engineer Nanodegree. In this projec
 Here, I first investigate the factors that affect the likelihood of charity donations being made. Then, I use a training and predicting pipeline to evaluate the accuracy and efficiency/speed of three supervised machine learning algorithms (decisiontree, SVC, Adaboost). I then proceed to fine tune the parameters of the algorithm that provides the highest donation yield. Finally, I also explore the impact of reducing the number of features in data.
 
 ### Install 
-
+ 
 This project requires **Python 2.7** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
