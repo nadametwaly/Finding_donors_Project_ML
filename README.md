@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 ## Project: Finding Donors for CharityML
 
-
+ 
 ### Project Description
  
 This is the project for the Machine Learning Engineer Nanodegree. In this project, I used scikit-learn and supervised learning techniques on data collected for the U.S. census to help a fictitious charity organization identify people most likely to donate to their cause.
